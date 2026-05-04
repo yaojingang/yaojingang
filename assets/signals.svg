@@ -1,0 +1,37 @@
+<svg width="520" height="300" viewBox="0 0 520 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile signals</title>
+  <desc id="desc">A compact panel with Yao Jingang profile signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0A1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="32" y1="44" x2="445" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="518" height="298" rx="22" fill="url(#bg)" stroke="#28344D" stroke-width="2"/>
+  <circle cx="438" cy="48" r="88" fill="#312E81" opacity="0.2"/>
+  <circle cx="94" cy="246" r="92" fill="#0EA5E9" opacity="0.1"/>
+  <text x="32" y="48" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="22" fill="#F8FAFC">Current Signals</text>
+  <text x="32" y="78" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" fill="#94A3B8">public profile snapshot</text>
+  <g transform="translate(32 108)">
+    <rect width="132" height="76" rx="16" fill="#151E2E" stroke="#28344D"/>
+    <text x="18" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#94A3B8">Followers</text>
+    <text x="18" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="30" fill="#A78BFA">190</text>
+  </g>
+  <g transform="translate(194 108)">
+    <rect width="132" height="76" rx="16" fill="#151E2E" stroke="#28344D"/>
+    <text x="18" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#94A3B8">Repos</text>
+    <text x="18" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="30" fill="#60A5FA">10</text>
+  </g>
+  <g transform="translate(356 108)">
+    <rect width="132" height="76" rx="16" fill="#151E2E" stroke="#28344D"/>
+    <text x="18" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" fill="#94A3B8">Top stars</text>
+    <text x="18" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="30" fill="#22C55E">2.6k+</text>
+  </g>
+  <path d="M34 244C73 230 87 209 121 218C156 227 164 176 196 188C238 204 238 240 280 226C315 214 325 175 359 188C401 205 413 240 486 203" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+  <text x="32" y="270" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" fill="#CBD5E1">GEO · Skills · Automation · Knowledge Assets</text>
+</svg>

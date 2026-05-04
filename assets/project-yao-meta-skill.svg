@@ -1,0 +1,23 @@
+<svg width="620" height="230" viewBox="0 0 620 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">yao-meta-skill project card</title>
+  <desc id="desc">Engineering system for reusable agent skills.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+    <linearGradient id="icon" x1="36" y1="40" x2="120" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="228" rx="22" fill="url(#bg)" stroke="#28344D" stroke-width="2"/>
+  <circle cx="530" cy="22" r="92" fill="#38BDF8" opacity="0.08"/>
+  <rect x="36" y="42" width="74" height="74" rx="18" fill="url(#icon)"/>
+  <path d="M56 74H90M56 92H76M93 92L101 100M101 92L93 100" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M55 58H96C101 58 105 62 105 67V104C105 109 101 113 96 113H55C50 113 46 109 46 104V67C46 62 50 58 55 58Z" stroke="white" stroke-width="4"/>
+  <text x="136" y="68" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="25" fill="#F8FAFC">yao-meta-skill</text>
+  <text x="136" y="101" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">Rigorous engineering, evaluation, governance,</text>
+  <text x="136" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">and portability system for agent skills.</text>
+  <g transform="translate(136 154)">
+    <rect width="66" height="28" rx="14" fill="#263244"/><text x="33" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Python</text>
+    <rect x="78" width="64" height="28" rx="14" fill="#263244"/><text x="110" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Agents</text>
+    <rect x="154" width="88" height="28" rx="14" fill="#263244"/><text x="198" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Evaluation</text>
+  </g>
+  <text x="36" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">★ 333</text>
+  <text x="120" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">⑂ 41</text>
+</svg>

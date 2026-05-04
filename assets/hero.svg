@@ -1,0 +1,68 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">YAO GitHub profile hero</title>
+  <desc id="desc">A dark space themed profile banner for Yao Jingang.</desc>
+  <defs>
+    <radialGradient id="planetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(825 508) rotate(-90) scale(288 820)">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.45" stop-color="#3B82F6" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="heroText" x1="215" y1="100" x2="780" y2="245" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1400" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1018"/>
+      <stop offset="0.52" stop-color="#0A1028"/>
+      <stop offset="1" stop-color="#070B12"/>
+    </linearGradient>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M 18 0 L 0 0 0 18" stroke="#26334D" stroke-opacity="0.32" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.45 0 0 0 0 0.29 0 0 0 0 1 0 0 0 0.65 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="2" y="2" width="1396" height="426" rx="26"/>
+    </clipPath>
+  </defs>
+  <rect x="2" y="2" width="1396" height="426" rx="26" fill="url(#panel)" stroke="#26334D" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <rect width="1400" height="430" fill="url(#grid)" opacity="0.45"/>
+    <circle cx="250" cy="78" r="150" fill="#111827" opacity="0.52"/>
+    <circle cx="1144" cy="108" r="220" fill="#312E81" opacity="0.18"/>
+    <path d="M152 411C318 263 970 207 1248 365C1309 400 1348 439 1384 477H3C41 452 90 437 152 411Z" fill="url(#planetGlow)"/>
+    <path d="M170 396C382 275 972 247 1244 368" stroke="#A78BFA" stroke-opacity="0.68" stroke-width="3"/>
+    <path d="M210 381C448 297 948 279 1178 374" stroke="#60A5FA" stroke-opacity="0.48" stroke-width="2"/>
+    <g opacity="0.82">
+      <circle cx="639" cy="110" r="2" fill="#A78BFA"/>
+      <circle cx="824" cy="75" r="1.7" fill="#60A5FA"/>
+      <circle cx="1085" cy="87" r="2" fill="#818CF8"/>
+      <circle cx="1222" cy="196" r="1.8" fill="#C4B5FD"/>
+      <circle cx="347" cy="274" r="1.5" fill="#93C5FD"/>
+      <circle cx="995" cy="198" r="1.5" fill="#A78BFA"/>
+      <circle cx="709" cy="220" r="1.2" fill="#60A5FA"/>
+    </g>
+    <g transform="translate(78 92)">
+      <circle cx="92" cy="92" r="86" fill="#111827" stroke="#26334D" stroke-width="2"/>
+      <circle cx="92" cy="92" r="72" fill="#101827" stroke="#7C3AED" stroke-width="5"/>
+      <circle cx="92" cy="92" r="52" fill="#0B1220"/>
+      <text x="92" y="84" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="40" fill="#F8FAFC">YAO</text>
+      <text x="92" y="119" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" fill="#A5B4FC">AI x GEO</text>
+      <circle cx="155" cy="150" r="10" fill="#22C55E"/>
+    </g>
+    <text x="268" y="112" font-family="SFMono-Regular,Consolas,monospace" font-weight="700" font-size="30" fill="#8B5CF6">&lt;/&gt;</text>
+    <text x="268" y="180" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="56" fill="#F8FAFC">Turning AI workflows</text>
+    <text x="268" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="56" fill="url(#heroText)">into reusable outcomes</text>
+    <text x="270" y="292" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" fill="#CBD5E1">AI Marketing · GEO · Agent Skills · Open Source</text>
+    <g transform="translate(1020 105)" filter="url(#softGlow)">
+      <text x="0" y="36" font-family="Georgia,serif" font-size="76" fill="#6D5DFB" opacity="0.65">“</text>
+      <text x="72" y="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" fill="#D8DDEA">Build once.</text>
+      <text x="72" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" fill="#D8DDEA">Reuse everywhere.</text>
+      <text x="72" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#8B5CF6">YAO = Yielding AI Outcomes</text>
+    </g>
+  </g>
+</svg>

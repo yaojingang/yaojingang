@@ -1,0 +1,23 @@
+<svg width="620" height="230" viewBox="0 0 620 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">yao-open-skills project card</title>
+  <desc id="desc">Reusable AI skills for public workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+    <linearGradient id="icon" x1="36" y1="40" x2="120" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#86EFAC"/><stop offset="1" stop-color="#4D7C0F"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="228" rx="22" fill="url(#bg)" stroke="#28344D" stroke-width="2"/>
+  <circle cx="532" cy="24" r="90" fill="#22C55E" opacity="0.08"/>
+  <rect x="36" y="42" width="74" height="74" rx="18" fill="url(#icon)"/>
+  <path d="M57 82C68 61 91 57 93 57C93 57 94 81 78 95C67 105 55 105 55 105C55 105 51 93 57 82Z" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 100L91 66" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <text x="136" y="68" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="25" fill="#F8FAFC">yao-open-skills</text>
+  <text x="136" y="101" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">OpenYao public skill library for decision,</text>
+  <text x="136" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">research, writing, and workflow automation.</text>
+  <g transform="translate(136 154)">
+    <rect width="56" height="28" rx="14" fill="#263244"/><text x="28" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">HTML</text>
+    <rect x="68" width="62" height="28" rx="14" fill="#263244"/><text x="99" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Skills</text>
+    <rect x="142" width="92" height="28" rx="14" fill="#263244"/><text x="188" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Workflows</text>
+  </g>
+  <text x="36" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">★ 653</text>
+  <text x="120" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">⑂ 79</text>
+</svg>

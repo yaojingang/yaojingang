@@ -1,0 +1,23 @@
+<svg width="620" height="230" viewBox="0 0 620 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">geo-citation-lab project card</title>
+  <desc id="desc">Dataset and pipeline for AI search citations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="620" y2="230" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+    <linearGradient id="icon" x1="36" y1="40" x2="120" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#FBBF24"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="228" rx="22" fill="url(#bg)" stroke="#28344D" stroke-width="2"/>
+  <circle cx="532" cy="22" r="92" fill="#F97316" opacity="0.08"/>
+  <rect x="36" y="42" width="74" height="74" rx="18" fill="url(#icon)"/>
+  <path d="M55 80L72 63L90 80L72 97L55 80Z" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M90 80L100 90L82 108L72 97" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  <text x="136" y="68" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-weight="800" font-size="25" fill="#F8FAFC">geo-citation-lab</text>
+  <text x="136" y="101" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">Dataset and analysis pipeline for studying</text>
+  <text x="136" y="128" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#CBD5E1">how AI search engines select citations.</text>
+  <g transform="translate(136 154)">
+    <rect width="66" height="28" rx="14" fill="#263244"/><text x="33" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Python</text>
+    <rect x="78" width="78" height="28" rx="14" fill="#263244"/><text x="117" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Research</text>
+    <rect x="168" width="58" height="28" rx="14" fill="#263244"/><text x="197" y="19" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" fill="#E5E7EB">Data</text>
+  </g>
+  <text x="36" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">★ 188</text>
+  <text x="120" y="200" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" fill="#AEB7C7">⑂ 39</text>
+</svg>
